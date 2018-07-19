@@ -510,7 +510,11 @@ table {
   border-bottom: 2px solid #00000026; }
 
 .page-content {
-  padding: 30px 0px 0px 0px; }
+  padding: 30px 0px 0px 0px;
+  text-align: justify; }
+
+.text-justify {
+  text-align: justify; }
 
 .banner {
   margin-top: 30px; }
